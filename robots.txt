@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://watusan.com/sitemap.xml
+Sitemap: https://wat-usan.onrender.com/sitemap.xml
